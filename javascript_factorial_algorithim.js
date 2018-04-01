@@ -1,4 +1,5 @@
 // factorial algorithim without iteration//
+
 var limit =1;
 function factorial(x){
     
@@ -19,5 +20,6 @@ function factorial(x){
 	}
 	
 }
-
-console.log(factorial(-4));
+ // test out with both positive and negative numbers.
+console.log(factorial(4));   ans = 24
+console.log(factorial(-4));   ans = -24
